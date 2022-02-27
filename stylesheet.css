@@ -1,7 +1,15 @@
+background-size {
+    width: 1170px;
+}
+
 .title {
     color: #02ccba;
   }
 
-.phase-1 {
+.phase-1 img {
+    width: 50%;
+}
+
+.phase-2 video {
     width: 50%;
 }

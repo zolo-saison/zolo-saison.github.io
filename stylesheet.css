@@ -10,6 +10,11 @@ background-size {
     width: 50%;
 }
 
+.phase-2 img {
+    width: 190px;
+    height: 200px;
+}
+
 .phase-2 video {
     width: 100px;
     height: 200px;
